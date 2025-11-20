@@ -1,0 +1,892 @@
+{
+  "title": "State-wise Groundwater Level and Quality Report",
+  "source": "Central Ground Water Board (CGWB), Ministry of Jal Shakti, Government of India",
+  "total_records": 100,
+  "unique_states": 35,
+  "last_updated": "September 2025",
+  "data_types": [
+    "Water Level",
+    "Water Quality"
+  ],
+  "years_available": [
+    "2024",
+    "2025"
+  ],
+  "states_data": [
+    {
+      "state_name": "National",
+      "bulletins": [
+        {
+          "serial_number": 1,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "National Bulletin Pre-2024 English.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/National Bulletin Pre-2024 English.pdf"
+        },
+        {
+          "serial_number": 2,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "National Bulletin Pre-2024 Hindi.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/National Bulletin Pre-2024 Hindi.pdf"
+        },
+        {
+          "serial_number": 3,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "National Bulletin January-2025 English.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/National Bulletin January-2025 English.pdf"
+        },
+        {
+          "serial_number": 30,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "National GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/National GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 59,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "National Bulletin August-2024 English.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/National Bulletin August-2024 English.pdf"
+        },
+        {
+          "serial_number": 60,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "National Bulletin Post-2024 English.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/National Bulletin Post-2024 English.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Andaman And Nicobar Islands",
+      "bulletins": [
+        {
+          "serial_number": 93,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Andaman&amp;Nicobar-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Andaman&amp;Nicobar-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Andhra Pradesh",
+      "bulletins": [
+        {
+          "serial_number": 4,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Andhra Pradesh-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Andhra Pradesh-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 31,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Andhra Pradesh GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Andhra Pradesh GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 61,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Andhra Pradesh-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Andhra Pradesh-WL-Bulletin-August2024.pdf"
+        },
+        {
+          "serial_number": 94,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Andhra Pradesh-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Andhra Pradesh-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Arunachal Pradesh",
+      "bulletins": [
+        {
+          "serial_number": 32,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Arunachal Pradesh GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Arunachal Pradesh GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 62,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-August2024.pdf"
+        },
+        {
+          "serial_number": 95,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Assam",
+      "bulletins": [
+        {
+          "serial_number": 33,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Assam GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Assam GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 63,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-August2024.pdf"
+        },
+        {
+          "serial_number": 96,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Bihar",
+      "bulletins": [
+        {
+          "serial_number": 5,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Bihar-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Bihar-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 34,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Bihar GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Bihar GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 64,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Bihar-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Bihar-WL-Bulletin-August2024.pdf"
+        },
+        {
+          "serial_number": 97,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Bihar-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Bihar-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Chandigarh",
+      "bulletins": [
+        {
+          "serial_number": 6,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Punjab-Chandigarh-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Punjab-Chandigarh-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 65,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Punjab_Chandigarh-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Punjab_Chandigarh-WL-Bulletin-August2024.pdf"
+        },
+        {
+          "serial_number": 98,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Punjab_Chandigarh-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Punjab_Chandigarh-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Chhattisgarh",
+      "bulletins": [
+        {
+          "serial_number": 7,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Chhatisgarh-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Chhatisgarh-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 35,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Chhattisgarh GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Chhattisgarh GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 66,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Chhattisgarh-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Chhattisgarh-WL-Bulletin-August2024.pdf"
+        },
+        {
+          "serial_number": 99,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Chhattisgarh-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Chhattisgarh-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Delhi",
+      "bulletins": [
+        {
+          "serial_number": 8,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Delhi-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Delhi-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 36,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Delhi GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Delhi GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 67,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Delhi-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Delhi-WL-Bulletin-August2024.pdf"
+        },
+        {
+          "serial_number": 100,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Delhi-WL-Bulletin-Pre-monsoon2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Delhi-WL-Bulletin-Pre-monsoon2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Goa",
+      "bulletins": [
+        {
+          "serial_number": 9,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Goa-WL-Bulletin-January 2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Goa-WL-Bulletin-January 2025.pdf"
+        },
+        {
+          "serial_number": 37,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Goa GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Goa GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 68,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Goa-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Goa-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Gujarat",
+      "bulletins": [
+        {
+          "serial_number": 10,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Gujarat-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Gujarat-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 38,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Gujarat GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Gujarat GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 69,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Gujarat-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Gujarat-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Haryana",
+      "bulletins": [
+        {
+          "serial_number": 11,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Haryana-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Haryana-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 39,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Haryana GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Haryana GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 70,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Haryana-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Haryana-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Himachal Pradesh",
+      "bulletins": [
+        {
+          "serial_number": 12,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Himachal Pradesh-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Himachal Pradesh-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 40,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Himachal Pradesh GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Himachal Pradesh GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 71,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Himachal Pradesh-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Himachal Pradesh-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Jammu And Kashmir",
+      "bulletins": [
+        {
+          "serial_number": 13,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Jammu&amp;Kashmir-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Jammu&amp;Kashmir-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 41,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Jammu and Kashmir GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Jammu and Kashmir GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 72,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "JammuKashmir-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/JammuKashmir-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Jharkhand",
+      "bulletins": [
+        {
+          "serial_number": 14,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Jharkhand-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Jharkhand-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 42,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Jharkhand GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Jharkhand GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 73,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Jharkhand-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Jharkhand-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Karnataka",
+      "bulletins": [
+        {
+          "serial_number": 15,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Karnataka-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Karnataka-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 43,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Karnataka GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Karnataka GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 74,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Karnataka-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Karnataka-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Kerala",
+      "bulletins": [
+        {
+          "serial_number": 16,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Kerala-WL-Bulletin-January_2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Kerala-WL-Bulletin-January_2025.pdf"
+        },
+        {
+          "serial_number": 44,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Kerala GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Kerala GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 75,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Kerala-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Kerala-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Madhya Pradesh",
+      "bulletins": [
+        {
+          "serial_number": 17,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Madhya Pradesh-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Madhya Pradesh-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 45,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Madhya Pradesh GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Madhya Pradesh GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 76,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Madhya Pradesh-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Madhya Pradesh-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Maharashtra",
+      "bulletins": [
+        {
+          "serial_number": 18,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Maharashtra-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Maharashtra-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 46,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Maharashtra GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Maharashtra GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 77,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Maharashtra-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Maharashtra-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Manipur",
+      "bulletins": [
+        {
+          "serial_number": 78,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Meghalaya",
+      "bulletins": [
+        {
+          "serial_number": 47,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Meghalaya GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Meghalaya GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 79,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Mizoram",
+      "bulletins": [
+        {
+          "serial_number": 80,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Nagaland",
+      "bulletins": [
+        {
+          "serial_number": 48,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Nagaland GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Nagaland GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 81,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Odisha",
+      "bulletins": [
+        {
+          "serial_number": 19,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Odisha-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Odisha-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 49,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Odisha GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Odisha GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 82,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Odisha-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Odisha-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Puducherry",
+      "bulletins": [
+        {
+          "serial_number": 20,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Tamil Nadu&amp;Puducherry-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Tamil Nadu&amp;Puducherry-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 83,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Tamil Nadu_Puducherry-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Tamil Nadu_Puducherry-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Punjab",
+      "bulletins": [
+        {
+          "serial_number": 21,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Punjab-Chandigarh-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Punjab-Chandigarh-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 50,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Punjab GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Punjab GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 84,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Punjab_Chandigarh-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Punjab_Chandigarh-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Rajasthan",
+      "bulletins": [
+        {
+          "serial_number": 22,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Rajasthan_WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Rajasthan_WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 51,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Rajasthan GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Rajasthan GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 85,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Rajasthan-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Rajasthan-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Sikkim",
+      "bulletins": [
+        {
+          "serial_number": 23,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Sikkim-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Sikkim-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 86,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Sikkim-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Sikkim-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Tamil Nadu",
+      "bulletins": [
+        {
+          "serial_number": 24,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Tamil Nadu&amp;Puducherry-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Tamil Nadu&amp;Puducherry-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 52,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Tamilnadu GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Tamilnadu GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 87,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Tamil Nadu_Puducherry-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Tamil Nadu_Puducherry-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Telangana",
+      "bulletins": [
+        {
+          "serial_number": 25,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Telangana-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Telangana-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 53,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Telangana GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Telangana GWQ Bulletin Pre-monsoon 2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
+      "bulletins": [
+        {
+          "serial_number": 26,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "UT_DNH&amp;DD-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/UT_DNH&amp;DD-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 54,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Daman Diu GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Daman Diu GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 88,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "DD_DNH-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/DD_DNH-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Tripura",
+      "bulletins": [
+        {
+          "serial_number": 55,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Tripura GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Tripura GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 89,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "NE States-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/NE States-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Uttar Pradesh",
+      "bulletins": [
+        {
+          "serial_number": 27,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Uttar Pradesh-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Uttar Pradesh-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 56,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Uttar Pradesh GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Uttar Pradesh GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 90,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Uttar Pradesh-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Uttar Pradesh-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "Uttarakhand",
+      "bulletins": [
+        {
+          "serial_number": 28,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "Uttarakhand-WL-Bulletin-January2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Uttarakhand-WL-Bulletin-January2025.pdf"
+        },
+        {
+          "serial_number": 57,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "Uttarakhand GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Uttarakhand GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 91,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "Uttarakhand-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/Uttarakhand-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    },
+    {
+      "state_name": "West Bengal",
+      "bulletins": [
+        {
+          "serial_number": 29,
+          "data_type": "Water Level",
+          "year": "2025",
+          "filename": "West Bengal_GW Level bulletin_Jan2025.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/West Bengal_GW Level bulletin_Jan2025.pdf"
+        },
+        {
+          "serial_number": 58,
+          "data_type": "Water Quality",
+          "year": "2024",
+          "filename": "West Bengal GWQ Bulletin Pre-monsoon 2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/West Bengal GWQ Bulletin Pre-monsoon 2024.pdf"
+        },
+        {
+          "serial_number": 92,
+          "data_type": "Water Level",
+          "year": "2024",
+          "filename": "West Bengal-WL-Bulletin-August2024.pdf",
+          "pdf_download_link": "https://gwdata.cgwb.gov.in/download/Bulletin/West Bengal-WL-Bulletin-August2024.pdf"
+        }
+      ]
+    }
+  ]
+}
