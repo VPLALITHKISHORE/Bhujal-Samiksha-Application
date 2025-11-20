@@ -99,7 +99,7 @@ let genAI: GoogleGenerativeAI | null = null;
 let chatInstance: any = null;
 
 // Store API key securely - consider using react-native-keychain or similar
-const API_KEY = 'AIzaSyC9HEYkoWQspO7xHQ3MyT-KTr6FO2CoA10'; // Move this to environment variables
+const API_KEY = 'GEMINI_API_KEU'; // Move this to environment variables
 
 const initializeChat = async () => {
   try {
